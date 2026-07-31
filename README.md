@@ -44,3 +44,4 @@ Run `CoDBooster.exe` as administrator.
 MIT — Free to use.
 
 ⭐ **Star on GitHub**
+ 
